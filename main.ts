@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const CANDIDATES = [
-  "I asked my AI agent to clean up my code. It renamed the mess 'utils'.",
+  "My AI agent spent so long planning to delete a file, the file claimed squatters' rights.",
   "My AI agent narrates every keystroke like it's defusing a bomb. It's renaming a folder.",
   "My AI agent needs a committee to write one sentence. I ordered intelligence and got a homeowners' association.",
 ];
